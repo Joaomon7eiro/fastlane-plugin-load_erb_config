@@ -1,0 +1,4 @@
+lane :test do
+  @data = load_erb_config(file_path:"./fastlane/test.yml.erb")
+  puts @data
+end
