@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'joaoagrom@gmail.com'
 
   spec.summary       = 'Fastlane plugin to read erb configuration file'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-load_erb_config"
+  spec.homepage      = "https://github.com/Joaomon7eiro/fastlane-plugin-load_erb_config"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
